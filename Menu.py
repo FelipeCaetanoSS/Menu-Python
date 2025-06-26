@@ -51,7 +51,7 @@ while item != 0:
 
 print("Compra finalizada.\n")
 print("Obrigado pela preferência!\n")
-print("PEDIDOS: \n")
+print("PEDIDOS:")
 for item_index in pedidos: 
     print(lista_itens[item_index])
 print(f"Valor total: R${valor_total}")
