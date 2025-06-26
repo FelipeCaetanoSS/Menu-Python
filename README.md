@@ -1,6 +1,6 @@
 # 🍽️ Sistema de Pedidos de Restaurante (Menu)
 
-Um sistema de linha de comando simples, desenvolvido em Python, que simula o processo de pedidos em um restaurante. O usuário pode visualizar o cardápio, adicionar itens ao seu pedido, consultar os itens já adicionados e finalizar a compra.
+Um sistema desenvolvido em Python, que simula o processo de pedidos em um restaurante. O usuário pode visualizar o cardápio, adicionar itens ao seu pedido, consultar os itens já adicionados e finalizar a compra.
 
 ## ✨ Funcionalidades
 
