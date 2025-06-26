@@ -54,4 +54,4 @@ print("Obrigado pela preferência!\n")
 print("PEDIDOS:")
 for item_index in pedidos: 
     print(lista_itens[item_index])
-print(f"Valor total: R${valor_total}")
+print(f"\nValor total: R${valor_total}")
