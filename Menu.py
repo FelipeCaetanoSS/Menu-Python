@@ -35,7 +35,7 @@ while item != 0:
     elif item == 12:
         print("\nPEDIDOS:")
         for i in range(len(pedidos)):
-          print(f"Item: {lista_itens[pedidos[i]]}.\n") 
+          print(f"Item: {lista_itens[pedidos[i]]}.") 
         print("Valor total: R$", valor_total)
         print("\n----------------------------\n")
 
